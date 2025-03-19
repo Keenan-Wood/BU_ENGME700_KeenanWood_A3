@@ -1,0 +1,6 @@
+Metadata-Version: 2.2
+Name: FEA_element_tutorial
+Version: 0.0.0
+Requires-Dist: numpy
+Requires-Dist: jupyter
+Requires-Dist: finiteelementanalysis@ git+https://github.com/Lejeune-Lab-Graduate-Course-Materials/finite-element-analysis/#egg=finiteelementanalysis

@@ -1,0 +1,9 @@
+pyproject.toml
+requirements.txt
+src/element_tutorial.py
+src/FEA_element_tutorial.egg-info/PKG-INFO
+src/FEA_element_tutorial.egg-info/SOURCES.txt
+src/FEA_element_tutorial.egg-info/dependency_links.txt
+src/FEA_element_tutorial.egg-info/requires.txt
+src/FEA_element_tutorial.egg-info/top_level.txt
+test/test_element_tutorial.py

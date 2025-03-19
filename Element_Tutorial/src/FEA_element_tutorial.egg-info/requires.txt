@@ -1,0 +1,3 @@
+numpy
+jupyter
+finiteelementanalysis@ git+https://github.com/Lejeune-Lab-Graduate-Course-Materials/finite-element-analysis/#egg=finiteelementanalysis
